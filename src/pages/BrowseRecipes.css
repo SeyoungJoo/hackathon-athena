@@ -1,0 +1,13 @@
+.container {
+  padding: 16px;
+}
+.header {
+  color: black;
+  text-align: start;
+  padding-left: 14px;
+}
+
+.cards {
+  width: 100%;
+  display: flex;
+}
